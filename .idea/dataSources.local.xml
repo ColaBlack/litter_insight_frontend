@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="IU-241.14494.240">
+    <data-source name="Hive Metastore" uuid="8a0c929d-4999-48a6-aae0-5b94466b47e8">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="UNKNOWN" />
+      <secret-storage>master_key</secret-storage>
+      <auth-provider>no-auth</auth-provider>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="database" negative="1">
+            <node kind="schema" negative="1" />
+          </node>
+        </introspection-scope>
+      </schema-mapping>
+    </data-source>
+  </component>
+</project>
